@@ -1,19 +1,17 @@
-<p>
-    <img width="400px" align="center" style="display: block; margin: 0 auto; cursor: normal;" src="svg/programming.svg" />
-</p>
+<center>
+    <p>
+        <img width="400px" align="center" style="display: block; margin: 0 auto; cursor: normal;" src="svg/programming.svg" />
+    </p>
+</center>
 
-<table>
-    <tbody>
-    <tr>
-        <td>
-            <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigovz&hide=html&layout=compact&theme=buefy" />
-        </td>
-        <td>
-            [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drigovz)](https://github.com/anuraghazra/github-readme-stats)
-        </td>
-    </tr>
-    </tbody>
-</table>
+<center>
+    <table>
+        <tr>
+            <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigovz&hide=html&layout=compact&theme=buefy" /></td>
+            <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=drigovz&theme=buefy"/></td>
+        </tr>   
+    </table>
+</center>  
 
 <br />
 
@@ -34,3 +32,6 @@ Where to find me? 🔍
 <a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank">LinkedIn</a>
 
 <a href="mailto:rodrigodp2014@gmail.com">Email</a>
+
+<br />
+![](https://komarev.com/ghpvc/?username=drigovz&color=blue&style=flat
