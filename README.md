@@ -1,5 +1,5 @@
-<center>
-    <p>
+<center align="center">
+    <p align="center">
         <img width="400px" align="center" style="display: block; margin: 0 auto; cursor: normal;" src="svg/programming.svg" />
     </p>
 </center>
@@ -14,6 +14,8 @@
 </center>  
 
 <br />
+
+<hr />
 
 ### Hi there 👋
 
@@ -33,5 +35,8 @@ Where to find me? 🔍
 
 <a href="mailto:rodrigodp2014@gmail.com">Email</a>
 
-<br />
-![](https://komarev.com/ghpvc/?username=drigovz&color=blue&style=flat
+<hr />
+
+<p>
+    <img src="https://komarev.com/ghpvc/?username=drigovz&color=blue&style=flat" />
+</p>
