@@ -4,6 +4,7 @@
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=drigovz" />
 
+<br />
 ### Hi there 👋
 
 My name is Rodrigo Vaz and I'm a developer/programmer more focused on the development applications for Web. With a focus on Back-end and Front-end too. I'm also very fond of databases and I work with databases such as Microsoft SQL Server, PostgreSQL and MySQL as well like MongoDB.
