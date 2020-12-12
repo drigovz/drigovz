@@ -1,8 +1,8 @@
-<img width="400px" align="center" style="margin: 0 auto; cursor: normal;" src="svg/programming.svg" />
+<img width="400px" align="center" style="display: block; margin: 0 auto; cursor: normal;" src="svg/programming.svg" />
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigovz&hide=html&layout=compact&theme=buefy" />
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=drigovz" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drigovz)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 ### Hi there 👋
