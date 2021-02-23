@@ -27,7 +27,7 @@ Where to find me? 🔍
 
 <a href="https://twitter.com/drigovz" target="_blank">Twitter</a>
 
-<a href="https://www.instagram.com/drigo_vz/" target="_blank">Instagram</a>
+<a href="https://www.instagram.com/drigovz/" target="_blank">Instagram</a>
 
 <a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank">LinkedIn</a>
 
