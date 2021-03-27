@@ -27,19 +27,19 @@ Where to find me? 🔍
 
 <div style="display: block; text-align: left;">
 <a href="https://twitter.com/drigovz" target="_blank">
-	<img width="30px" align="center" style="display: inline-block; cursor: normal; margin-right: 10px;" src="svg/logo_twitter.png" />
+	<img width="20px" align="center" style="display: inline-block; cursor: normal; padding-right: 10px;" src="svg/logo_twitter.png" />
 </a>
 
 <a href="https://www.instagram.com/drigovz/" target="_blank">
-	<img width="30px" align="center" style="display: inline-block; cursor: normal; margin-right: 10px;" src="svg/logo_instagram.png" />
+	<img width="20px" align="center" style="display: inline-block; cursor: normal; padding-right: 10px;" src="svg/logo_instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank">
-	<img width="30px" align="center" style="display: inline-block; cursor: normal; margin-right: 10px;" src="svg/logo_linkedin.png" />
+	<img width="20px" align="center" style="display: inline-block; cursor: normal; padding-right: 10px;" src="svg/logo_linkedin.png" />
 </a>
 
 <a href="mailto:rodrigodp2014@gmail.com">
-	<img width="30px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_gmail.png" />
+	<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_gmail.png" />
 </a>
 </div>
 
