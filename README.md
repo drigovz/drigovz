@@ -25,17 +25,17 @@ I always try to learn new technologies and study and update my knowledges, alway
 
 Where to find me? 🔍
 
-<div style="display: block; text-align: left;">
+<div style="text-align: left;">
 <a href="https://twitter.com/drigovz" target="_blank">
-	<img width="20px" align="center" style="display: inline-block; cursor: normal; padding-right: 10px;" src="svg/logo_twitter.png" />
+	<img width="20px" align="center" style="display: inline-block; cursor: normal; margin-right: 10px;" src="svg/logo_twitter.png" />
 </a>
-
+ 
 <a href="https://www.instagram.com/drigovz/" target="_blank">
-	<img width="20px" align="center" style="display: inline-block; cursor: normal; padding-right: 10px;" src="svg/logo_instagram.png" />
+	<img width="20px" align="center" style="display: inline; cursor: normal; margin-right: 10px;" src="svg/logo_instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank">
-	<img width="20px" align="center" style="display: inline-block; cursor: normal; padding-right: 10px;" src="svg/logo_linkedin.png" />
+	<img width="20px" align="center" style="display: inline-block; cursor: normal; margin-right: 10px;" src="svg/logo_linkedin.png" />
 </a>
 
 <a href="mailto:rodrigodp2014@gmail.com">
