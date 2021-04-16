@@ -19,7 +19,7 @@
 
 My name is Rodrigo Vaz and I'm a developer/programmer more focused on the development applications for Web. With a focus on Back-end and Front-end too. I'm also very fond of databases and I work with databases such as Microsoft SQL Server, PostgreSQL and MySQL as well like MongoDB.
 
-Most of my applications, whether professional projects or personal projects, use Microsoft technologies: ASP.NET Core, SQL Server, C # and Microsoft Azure as a tool for Deploy and DevOps. However, I work too with technologies such as Node.js, Angular, Typescript and Javascript.
+Most of my applications, whether professional projects or personal projects, use Microsoft technologies: ASP.NET Core, SQL Server, C # and Microsoft Azure as a tool for Deploy and DevOps. However, I work too with technologies such as Node.js, Angular, Typescript, Javascript, Docker, Docker-Compose, PowerShell scripts and Linux Systems.
 
 I always try to learn new technologies and study and update my knowledges, always focusing on clean and readable codes using Clean Code and Design Patterns.
 
