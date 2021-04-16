@@ -15,7 +15,8 @@
 
 <hr />
 
-### Hi there 👋
+### Hi there <img src="svg/hello.gif" width="25px" />
+<!--👋-->
 
 My name is Rodrigo Vaz and I'm a developer/programmer more focused on the development applications for Web. With a focus on Back-end and Front-end too. I'm also very fond of databases and I work with databases such as Microsoft SQL Server, PostgreSQL and MySQL as well like MongoDB.
 
@@ -52,6 +53,6 @@ Where to find me? 🔍
 
 <hr />
 
-<p>
+<!--<p>
     <img src="https://komarev.com/ghpvc/?username=drigovz&color=blue&style=flat" />
-</p>
+</p>-->
