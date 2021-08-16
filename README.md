@@ -24,11 +24,11 @@ Most of my applications, whether professional projects or personal projects, use
 
 I always try to learn new technologies and study and update my knowledges, always focusing on clean and readable codes using Clean Code and Design Patterns.
 
-##### Languages & Tools 🛠
+#### Languages & Tools 🛠
 
 ![csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&color=purple&logo=csharp)&nbsp;![.net](https://img.shields.io/badge/-.net-05122A?style=flat&color=purple&logo=.net)&nbsp;![visualstudio](https://img.shields.io/badge/-visualstudio-05122A?style=flat&color=purple&logo=visualstudio)&nbsp;![microsoftsqlserver](https://img.shields.io/badge/-sqlserver-05122A?style=flat&color=red&logo=microsoftsqlserver)&nbsp;![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&color=green$logo=nodejs&logo=node.js)&nbsp;![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&color=white&logo=typescript)&nbsp;![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&color=0d1017&logo=javascript)&nbsp;![docker](https://img.shields.io/badge/-docker-05122A?style=flat&color=blue&logo=docker)&nbsp;![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&color=0d1017&logo=kubernetes)&nbsp;![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-05122A?style=flat&color=blue&logo=visualstudiocode)&nbsp;![postgresql](https://img.shields.io/badge/-postgresql-05122A?style=flat&color=0d1017&logo=postgresql)&nbsp;![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&color=0d1017&logo=mysql)&nbsp;![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&color=green&logo=mongodb)&nbsp;![redis](https://img.shields.io/badge/-redis-05122A?style=flat&color=white&logo=redis)&nbsp;![powershell](https://img.shields.io/badge/-powershell-05122A?style=flat&color=blue&logo=powershell)&nbsp;![bash](https://img.shields.io/badge/-bash-05122A?style=flat&color=0d1017&logo=gnubash)&nbsp;![linux](https://img.shields.io/badge/-linux-05122A?style=flat&color=0d1017&logo=linux)&nbsp;![windows](https://img.shields.io/badge/-windows-05122A?style=flat&color=blue&logo=windows)&nbsp;![windowsterminal](https://img.shields.io/badge/-windowsterminal-05122A?style=flat&color=blue&logo=windowsterminal)&nbsp;![githubactions](https://img.shields.io/badge/-githubactions-05122A?style=flat&color=white&logo=githubactions)&nbsp;![github](https://img.shields.io/badge/-github-05122A?style=flat&color=blue&logo=github)&nbsp;![git](https://img.shields.io/badge/-git-05122A?style=flat&color=0d1017&logo=git)&nbsp;
 
-##### Where to find me? 🔍
+#### Where to find me? 🔍
 
 <div style="text-align: left;">
 <table style="border:0px">
