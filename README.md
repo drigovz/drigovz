@@ -15,7 +15,7 @@
 
 <hr />
 
-### Hi there <img src="svg/hello.gif" width="25px" />
+### Hi there <img src="svg/hello.gif" width="24px" />
 <!--👋-->
 
 My name is Rodrigo Vaz and I'm a developer/programmer more focused on the development applications for Web. With a focus on Back-end and Front-end too. I'm also very fond of databases and I work with databases such as Microsoft SQL Server, PostgreSQL and MySQL as well like MongoDB and Redis for caching.
