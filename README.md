@@ -42,7 +42,23 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 
 #### Where to find me? 🔍
 
-![twitter](https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&color=1C98E5&logo=twitter&logoColor=white&link=https://twitter.com/drigovz)&nbsp;![instagram](https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&color=C42B84&logo=instagram&logoColor=white&link=https://www.instagram.com/drigovz/)&nbsp;![linkedin](https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&color=0961B8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-vaz-del-pino/)&nbsp;![gmail](https://img.shields.io/badge/-gmail-05122A?style=for-the-badge&color=DE3F32&logo=gmail&logoColor=white&link=mailto:rodrigodp2014@gmail.com)
+<a href="https://twitter.com/drigovz" target="_blank" alt="twitter" title="drigovz">
+	<img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&color=1C98E5&logo=twitter&logoColor=white" alt="twitter" title="drigovz" />
+</a>
+
+<a href="https://www.instagram.com/drigovz" target="_blank" alt="instagram" title="drigovz">
+	<img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&color=C42B84&logo=instagram&logoColor=white" alt="instagram" title="drigovz" />
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank" alt="linkedin" title="rodrigo-vaz-del-pino">
+	<img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&color=0961B8&logo=linkedin&logoColor=white" alt="linkedin" title="rodrigo-vaz-del-pino" />
+</a>
+
+
+<a href="mailto:rodrigodp2014@gmail.com" target="_blank" alt="gmail" title="rodrigodp2014@gmail.com">
+	<img src="https://img.shields.io/badge/-gmail-05122A?style=for-the-badge&color=DE3F32&logo=gmail&logoColor=white" alt="gmail" title="rodrigodp2014@gmail.com" />
+</a>
+
 
 <hr />
 <p>
