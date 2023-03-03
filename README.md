@@ -62,6 +62,11 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 	<img src="https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=5562EA&logo=discord&logoColor=white" alt="discord" title="Яodяigo Vaz#2624" />
 </a>
 
+<a href="https://dev.to/drigovz" target="_blank" alt="Dev.to" title="drigovz">
+	<img src="https://img.shields.io/badge/-dev.to-05122A?style=for-the-badge&color=000000&logo=dev.to&logoColor=white" alt="Dev.to" title="drigovz" />
+</a>
+
+
 
 
 <hr />
