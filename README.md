@@ -41,7 +41,7 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 
 
 #### Where to find me? 🔍
-<div style="display: flex;">
+<div style="display: flex; align-itens: left;">
 
 <a href="https://twitter.com/drigovz" target="_blank">
 
