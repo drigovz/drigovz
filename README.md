@@ -18,15 +18,23 @@
 ### Hi there 👋
 <!-- <img src="svg/hello.gif" width="24px" /> -->
 
-My name is Rodrigo Vaz and I'm a developer/programmer more focused on the development applications for Web. With a focus on Back-end and Front-end too. I'm also very fond of databases and I work with databases such as Microsoft SQL Server, PostgreSQL and MySQL as well like MongoDB and Redis for caching.
+My name is Rodrigo Vaz and I'm a developer/programmer focused on Web applications development. Mostly interested in Backend and Frontend apps, I work with databases such as **Microsoft SQL Server**, **PostgreSQL** and **MySQL** as well as **MongoDB** and **Redis** for caching services.
 
-Most of my applications, whether professional projects or personal projects, use Microsoft technologies: **.NET Core**, **SQL Server** and **C#**. However, I work too with technologies such as Node.js, React.js, Typescript, Javascript, Docker, Docker-Compose, PowerShell Script, Bash Script and Linux Systems.
+I’ve been working in the area for over 6 years, resulting in professional and personal projects with Microsoft technologies: .**NET Core**, **SQL Server** and **C#**. I also work with **React.js**, **Typescript/Javascript**, **Docker**, **Docker-Compose**, **Kubernetes**, **PowerShell Script**, **Bash Script** and GNU/Linux and Windows Systems.
 
-I always try to learn new technologies and study and update my knowledges, always focusing on clean and readable codes using Clean Code and Design Patterns.
+Commitment with quality and confidence, as well as use of clean and readable codes are the top aims in all projects.
+
 
 #### Languages & Tools 🛠
 
-![csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&color=purple&logo=csharp)&nbsp;![.net](https://img.shields.io/badge/-.net-05122A?style=flat&color=purple&logo=.net)&nbsp;![visualstudio](https://img.shields.io/badge/-visualstudio-05122A?style=flat&color=purple&logo=visualstudio)&nbsp;![microsoftsqlserver](https://img.shields.io/badge/-sqlserver-05122A?style=flat&color=red&logo=microsoftsqlserver)&nbsp;![docker](https://img.shields.io/badge/-docker-05122A?style=flat&color=004080&logo=docker)&nbsp;![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-05122A?style=flat&color=blue&logo=visualstudiocode)&nbsp;![redis](https://img.shields.io/badge/-redis-05122A?style=flat&color=c2c2a3&logo=redis)&nbsp;![powershell](https://img.shields.io/badge/-powershell-05122A?style=flat&color=264d73&logo=powershell)&nbsp;![windowsterminal](https://img.shields.io/badge/-windowsterminal-05122A?style=flat&color=blue&logo=windowsterminal)&nbsp;![github](https://img.shields.io/badge/-github-05122A?style=flat&color=blue&logo=github)&nbsp;![git](https://img.shields.io/badge/-git-05122A?style=flat&color=c2c2a3&logo=git)&nbsp;
+![csharp](https://img.shields.io/badge/-csharp-05122A?style=for-the-badge&color=purple&logo=csharp&logoColor=white)&nbsp;
+
+![.net](https://img.shields.io/badge/-.net-05122A?style=for-the-badge&color=purple&logo=.net&logoColor=white)&nbsp;
+
+![visualstudio](https://img.shields.io/badge/-visual_studio-05122A?style=for-the-badge&color=purple&logo=visualstudio&logoColor=white)&nbsp;
+
+![jetbrains-rider](https://img.shields.io/badge/-jetbrains_rider-05122A?style=for-the-badge&color=purple&logo=rider&logoColor=white)&nbsp;![visualstudiocode](https://img.shields.io/badge/-visual_studio_code-05122A?style=for-the-badge&color=purple&logo=visualstudiocode&logoColor=white)&nbsp;![microsoftsqlserver](https://img.shields.io/badge/-sql_server-05122A?style=for-the-badge&color=purple&logo=microsoftsqlserver&logoColor=white)&nbsp;![docker](https://img.shields.io/badge/-docker-05122A?style=for-the-badge&color=purple&logo=docker&logoColor=white)&nbsp;![docker](https://img.shields.io/badge/-kubernetes-05122A?style=for-the-badge&color=purple&logo=kubernetes&logoColor=white)&nbsp;
+![redis](https://img.shields.io/badge/-redis-05122A?style=for-the-badge&color=purple&logo=redis&logoColor=white)&nbsp;![powershell](https://img.shields.io/badge/-powershell-05122A?style=for-the-badge&color=purple&logo=powershell&logoColor=white)&nbsp;![windowsterminal](https://img.shields.io/badge/-windows_terminal-05122A?style=for-the-badge&color=purple&logo=windowsterminal&logoColor=white)&nbsp;![github](https://img.shields.io/badge/-github-05122A?style=for-the-badge&color=purple&logo=github&logoColor=white)&nbsp;![git](https://img.shields.io/badge/-git-05122A?style=for-the-badge&color=purple&logo=git&logoColor=white)&nbsp;
 
 <!-- ![githubactions](https://img.shields.io/badge/-githubactions-05122A?style=flat&color=white&logo=githubactions)&nbsp; -->
 <!-- ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&color=blue&logo=windows)&nbsp; -->
