@@ -45,7 +45,41 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 <div style="text-align: left;">
 <table style="border:0px">
 	<td style="border:0px">
-		<a href="https://twitter.com/drigovz" target="_blank">
+	
+<a href="https://twitter.com/drigovz" target="_blank">
+
+![twitter](https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&color=1C98E5&logo=twitter&logoColor=white)
+
+</a>
+
+<a href="https://www.instagram.com/drigovz/" target="_blank">
+
+![instagram](https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&color=C42B84&logo=instagram&logoColor=white)
+
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank">
+
+![linkedin](https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&color=0961B8&logo=linkedin&logoColor=white)
+
+</a>
+
+<a href="mailto:rodrigodp2014@gmail.com">
+
+![gmail](https://img.shields.io/badge/-gmail-05122A?style=for-the-badge&color=DE3F32&logo=gmail&logoColor=white)
+
+</a>
+		
+</td>
+</table>
+</div>
+
+<hr />
+<p>
+    <img src="https://komarev.com/ghpvc/?username=drigovz&color=blue&style=for-the-badge" />
+</p>
+
+<!--<a href="https://twitter.com/drigovz" target="_blank">
 			<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_twitter.png" />
 		</a>
 	</td>
@@ -62,12 +96,4 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 	<td style="border:0px">
 	<a href="mailto:rodrigodp2014@gmail.com">
 		<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_gmail.png" />
-	</a>
-	</td>
-</table>
-</div>
-
-<hr />
-<p>
-    <img src="https://komarev.com/ghpvc/?username=drigovz&color=blue&style=for-the-badge" />
-</p>
+	</a>-->
