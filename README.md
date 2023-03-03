@@ -41,11 +41,8 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 
 
 #### Where to find me? 🔍
+<div style="display: flex;">
 
-<div style="text-align: left;">
-<table style="border:0px">
-	<td style="border:0px">
-	
 <a href="https://twitter.com/drigovz" target="_blank">
 
 ![twitter](https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&color=1C98E5&logo=twitter&logoColor=white)
@@ -69,9 +66,7 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 ![gmail](https://img.shields.io/badge/-gmail-05122A?style=for-the-badge&color=DE3F32&logo=gmail&logoColor=white)
 
 </a>
-		
-</td>
-</table>
+
 </div>
 
 <hr />
@@ -79,7 +74,15 @@ Commitment with quality and confidence, as well as use of clean and readable cod
     <img src="https://komarev.com/ghpvc/?username=drigovz&color=blue&style=for-the-badge" />
 </p>
 
-<!--<a href="https://twitter.com/drigovz" target="_blank">
+
+
+
+
+<!--<div style="text-align: left;">
+<table style="border:0px">
+	<td style="border:0px">
+	
+<a href="https://twitter.com/drigovz" target="_blank">
 			<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_twitter.png" />
 		</a>
 	</td>
@@ -96,4 +99,8 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 	<td style="border:0px">
 	<a href="mailto:rodrigodp2014@gmail.com">
 		<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_gmail.png" />
-	</a>-->
+	</a>
+		
+</td>
+</table>
+</div>-->
