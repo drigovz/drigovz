@@ -54,10 +54,14 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 	<img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&color=0961B8&logo=linkedin&logoColor=white" alt="linkedin" title="rodrigo-vaz-del-pino" />
 </a>
 
-
 <a href="mailto:rodrigodp2014@gmail.com" target="_blank" alt="gmail" title="rodrigodp2014@gmail.com">
 	<img src="https://img.shields.io/badge/-gmail-05122A?style=for-the-badge&color=DE3F32&logo=gmail&logoColor=white" alt="gmail" title="rodrigodp2014@gmail.com" />
 </a>
+
+<a href="discordapp.com/users/582529594377371648" target="_blank" alt="discord" title="Яodяigo Vaz#2624">
+	<img src="https://img.shields.io/badge/-discord-05122A?style=for-the-badge&color=5562EA&logo=discord&logoColor=white" alt="discord" title="Яodяigo Vaz#2624" />
+</a>
+
 
 
 <hr />
