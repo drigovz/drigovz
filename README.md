@@ -20,29 +20,29 @@
 
 My name is Rodrigo Vaz and I'm a developer/programmer focused on Web applications development. Mostly interested in Backend and Frontend apps, I work with databases such as **Microsoft SQL Server**, **PostgreSQL** and **MySQL** as well as **MongoDB** and **Redis** for caching services.
 
-I’ve been working in the area for over 6 years, resulting in professional and personal projects with Microsoft technologies: .**NET Core**, **SQL Server** and **C#**. I also work with **React.js**, **Typescript/Javascript**, **Docker**, **Docker-Compose**, **Kubernetes**, **PowerShell Script**, **Bash Script** and GNU/Linux and Windows Systems.
+I’ve been working in the area for over 6 years, resulting in professional and personal projects with Microsoft technologies: .**NET Core**, **SQL Server** and **C#**. I also work with **React.js**, **TypeScript/JavaScript**, **Docker**, **Docker-Compose**, **Kubernetes**, **PowerShell Script**, **Bash Script** and GNU/Linux and Windows Systems.
 
 Commitment with quality and confidence, as well as use of clean and readable codes are the top aims in all projects.
 
 #### Languages & Tools 🛠
 
+<!-- ![jetbrains-rider](https://img.shields.io/badge/-jetbrains_rider-05122A?style=for-the-badge&color=9665d0&logo=rider&logoColor=white)&nbsp; -->
+
 ![csharp](https://img.shields.io/badge/-csharp-05122A?style=for-the-badge&color=9665d0&logo=csharp&logoColor=white)&nbsp;
 ![.net](https://img.shields.io/badge/-.net-05122A?style=for-the-badge&color=9665d0&logo=.net&logoColor=white)&nbsp;
-![jetbrains-rider](https://img.shields.io/badge/-jetbrains_rider-05122A?style=for-the-badge&color=9665d0&logo=rider&logoColor=white)&nbsp;
 ![microsoftsqlserver](https://img.shields.io/badge/-sql_server-05122A?style=for-the-badge&color=9665d0&logo=microsoftsqlserver&logoColor=white)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&color=9665d0&logo=typescript&logoColor=white)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript-05122A?style=for-the-badge&color=9665d0&logo=javascript&logoColor=white)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&color=9665d0)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=for-the-badge&color=9665d0&logo=docker&logoColor=white)&nbsp;
 ![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=for-the-badge&color=9665d0&logo=kubernetes&logoColor=white)&nbsp;
 ![redis](https://img.shields.io/badge/-redis-05122A?style=for-the-badge&color=9665d0&logo=redis&logoColor=white)&nbsp;
 ![powershell](https://img.shields.io/badge/-powershell-05122A?style=for-the-badge&color=9665d0&logo=powershell&logoColor=white)&nbsp;
-![windowsterminal](https://img.shields.io/badge/-windows_terminal-05122A?style=for-the-badge&color=9665d0&logo=windowsterminal&logoColor=white)&nbsp;
-![github](https://img.shields.io/badge/-github-05122A?style=for-the-badge&color=9665d0&logo=github&logoColor=white)&nbsp;
 ![githubactions](https://img.shields.io/badge/-githubactions-05122A?style=for-the-badge&color=9665d0&logo=github&logoColor=white)&nbsp;
 ![git](https://img.shields.io/badge/-git-05122A?style=for-the-badge&color=9665d0&logo=git&logoColor=white)&nbsp;
 ![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=for-the-badge&color=9665d0&$logo=nodejs&logo=node.js&logoColor=white)&nbsp;
 
-#### Recent projects
+<!-- #### Recent projects
 
 <div>
 	<a href="https://github.com/drigovz/frontent-studies">
@@ -57,19 +57,13 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 			height="100"
 		/>
 	</a>
-	<!-- <a href="https://github.com/drigovz/rabbitmq-exemple">
-		<img
-			src="https://github-readme-stats.vercel.app/api/pin/?username=drigovz&repo=rabbitmq-exemple&title_color=9665d0&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=10"
-			height="100"
-		/>
-	</a> -->
 	<a href="https://github.com/drigovz/csharp-utilities">
 		<img
 			src="https://github-readme-stats.vercel.app/api/pin/?username=drigovz&repo=csharp-utilities&title_color=9665d0&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=10"
 			height="100"
 		/>
 	</a>
-</div>
+</div> -->
 
 #### Where to find me? 🔍
 
