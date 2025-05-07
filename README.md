@@ -18,8 +18,6 @@
 
 #### Hi There 👋
 
-<!-- <img src="svg/hello.gif" width="24px" /> -->
-
 My name is Rodrigo Vaz and I'm a developer/programmer focused on Web applications development. Mostly interested in Backend and Frontend apps, I work with databases such as **Microsoft SQL Server**, **PostgreSQL** and **MySQL** as well as **MongoDB** and **Redis** for caching services.
 
 I’ve been working in the area for over 8 years, resulting in professional and personal projects with Microsoft technologies: .**NET Core**, **SQL Server** and **C#**. I also work with **React.js**, **TypeScript/JavaScript**, **Docker**, **Docker-Compose**, **Kubernetes**, **PowerShell Script**, **Bash Script** and GNU/Linux and Windows Systems.
@@ -47,7 +45,7 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 	</a>
 </div> -->
 
-#### Where to find me? 🔍
+<!-- #### Where to find me? 🔍
 
 <a href="https://twitter.com/drigovz" target="_blank" alt="twitter" title="drigovz">
 	<img style="width:2.4rem; margin-right: 0.5rem;" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="twitter" title="drigovz" />
@@ -63,36 +61,9 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 </a>
 <a href="https://dev.to/drigovz" target="_blank" alt="Dev.to" title="drigovz">
 	<img style="width:2.4rem;" src="https://skillicons.dev/icons?i=devto&theme=dark" alt="Dev.to" title="drigovz" />
-</a>
+</a> -->
 
 <hr />
 <p>
     <img src="https://komarev.com/ghpvc/?username=drigovz&color=blue&style=for-the-badge" />
 </p>
-
-<!--<div style="text-align: left;">
-<table style="border:0px">
-	<td style="border:0px">
-
-<a href="https://twitter.com/drigovz" target="_blank">
-			<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_twitter.png" />
-		</a>
-	</td>
-	<td style="border:0px">
-		<a href="https://www.instagram.com/drigovz/" target="_blank">
-		<img width="20px" align="center" style="display: inline; cursor: normal; margin-right: 10px;" src="svg/logo_instagram.png" />
-	</a>
-	</td>
-	<td style="border:0px">
-		<a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank">
-		<img width="20px" align="center" style="display: inline-block; cursor: normal; margin-right: 10px;" src="svg/logo_linkedin.png" />
-	</a>
-	</td>
-	<td style="border:0px">
-	<a href="mailto:rodrigodp2014@gmail.com">
-		<img width="20px" align="center" style="display: inline-block; cursor: normal;" src="svg/logo_gmail.png" />
-	</a>
-
-</td>
-</table>
-</div>-->
