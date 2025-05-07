@@ -50,16 +50,16 @@ Commitment with quality and confidence, as well as use of clean and readable cod
 #### Where to find me? 🔍
 
 <a href="https://twitter.com/drigovz" target="_blank" alt="twitter" title="drigovz">
-	<img style="width:2.4rem; margin-right: 0.5rem" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="twitter" title="drigovz" />
+	<img style="width:2.4rem; margin-right: 0.5rem;" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="twitter" title="drigovz" />
 </a>
 <a href="https://www.linkedin.com/in/rodrigo-vaz-del-pino/" target="_blank" alt="linkedin" title="rodrigo-vaz-del-pino">
-	<img style="width:2.4rem; margin-right: 0.5rem" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" title="rodrigo-vaz-del-pino" />
+	<img style="width:2.4rem; margin-right: 0.5rem;" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" title="rodrigo-vaz-del-pino" />
 </a>
 <a href="mailto:rodrigodp2014@gmail.com" target="_blank" alt="gmail" title="rodrigodp2014@gmail.com">
-	<img style="width:2.4rem; margin-right: 0.5rem"  src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" title="rodrigodp2014@gmail.com" />
+	<img style="width:2.4rem; margin-right: 0.5rem;"  src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="gmail" title="rodrigodp2014@gmail.com" />
 </a>
 <a href="https://discordapp.com/users/582529594377371648" target="_blank" alt="discord" title="Яodяigo Vaz#2624">
-	<img style="width:2.4rem; margin-right: 0.5rem" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="discord" title="Яodяigo Vaz#2624" />
+	<img style="width:2.4rem; margin-right: 0.5rem;" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="discord" title="Яodяigo Vaz#2624" />
 </a>
 <a href="https://dev.to/drigovz" target="_blank" alt="Dev.to" title="drigovz">
 	<img style="width:2.4rem;" src="https://skillicons.dev/icons?i=devto&theme=dark" alt="Dev.to" title="drigovz" />
